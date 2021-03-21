@@ -1,14 +1,14 @@
 {
-  "name": "react-setup-tutorial",
+  "name": "react-setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Setup From Scratch",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot --open",
     "build": "webpack --config webpack.config.js --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "kunal",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.11.0",
